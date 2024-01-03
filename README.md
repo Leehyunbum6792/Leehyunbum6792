@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div><br>
 </div>
-## 🛠 Tools 🛠 ##
+### 🛠 Tools 🛠 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
