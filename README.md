@@ -29,12 +29,12 @@
 <div align="center">
 <h4 align="center"> My Most Used Languages </h4>
  <a href="https://github.com/Leehyunbum6792" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkd6262&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=Objective%2DC" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leehyunbum6792&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=Objective%2DC" />
  </a>
 
 <h4 align="center"> My Git Stats </h4>
  <a href="https://github.com/Leehyunbum6792" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkd6262&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=holi" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leehyunbum6792&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=holi" />
  </a>
 
 </div>
