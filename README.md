@@ -1,4 +1,4 @@
- <-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=welcome%20to%20hyunbum's%20github&fontSize=50)
+ <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=welcome%20to%20hyunbum's%20github&fontSize=50)
 
 ## 📝 Once I've used studying 📝
 <div style="display:flex; flex-direction:row;">
