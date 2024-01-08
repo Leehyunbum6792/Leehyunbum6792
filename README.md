@@ -1,4 +1,4 @@
- <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=welcome%20to%20hyunbum's%20github&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=welcome%20to%20hyunbum's%20github&fontSize=50)
 
 ## 📝 Once I've used studying 📝
 <div style="display:flex; flex-direction:row;">
@@ -40,7 +40,7 @@
 
 </div>
 
-<!--
+
 **Leehyunbum6792/Leehyunbum6792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
