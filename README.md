@@ -35,7 +35,7 @@
 
 <h4 align="center"> My Git Stats </h4>
  <a href="https://github.com/Leehyunbum6792" align="center">
-   <img width="{50%}" align="center" src="https://github-readme-stats.vercel.app/api?username=Leehyunbum6792&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=holi" />
+   <img width="{500}" align="center" src="https://github-readme-stats.vercel.app/api?username=Leehyunbum6792&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=holi" />
  </a>
 
 </div>
