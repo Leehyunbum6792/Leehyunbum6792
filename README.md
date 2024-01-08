@@ -1,4 +1,4 @@
- ![Leehyunbum6792](https://github.com/Leehyunbum6792/Leehyunbum6792/issues/1#issue-2069897192)
+ ![Leehyunbum6792]([https://github.com/Leehyunbum6792/Leehyunbum6792/issues/1#issue-2069897192](https://github.com/Leehyunbum6792/Leehyunbum6792/issues/1#issue-2069897192))
  
 <br>
 <div align="center">
