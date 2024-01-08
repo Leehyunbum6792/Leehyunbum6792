@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-squar&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-FFB13B.svg?&style=flat-squar&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=flat-squar&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=flat-squar&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 </div>
 <br>
