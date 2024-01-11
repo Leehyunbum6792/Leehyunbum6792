@@ -12,9 +12,6 @@
  </a>
 
 </div>
-
-Here are some ideas to get you started:
--->
 <div align="center">
 <h4>📚Once I've Used📚</h4>
   <br>
